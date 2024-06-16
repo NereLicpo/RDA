@@ -86,7 +86,7 @@ public class bathroom {
 
         // Create buttons for choices
         JButton btnOutside = new JButton("Outside");
-        JButton btnBackToBed = new JButton("Back to bed, you want to snooze for a while longer");
+        JButton btnBackToBed = new JButton("Back to bed, you want to snooze for a while longer zzzzzz");
 
         // Add action listeners to the buttons
         btnOutside.addActionListener(new ActionListener() {
