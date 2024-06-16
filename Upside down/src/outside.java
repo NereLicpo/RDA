@@ -112,7 +112,7 @@ public class outside {
         panel.add(new JScrollPane(textArea), BorderLayout.CENTER);
 
         JPanel buttonPanel = new JPanel();
-        JButton instantFoodButton = new JButton("Instant food");
+        JButton instantFoodButton = new JButton("Noodles");
         JButton energyDrinksButton = new JButton("Energy drinks and coffee");
         JButton properMealButton = new JButton("Ingredients for a proper meal");
         JButton cannedFoodButton = new JButton("Canned food");
